@@ -17,7 +17,7 @@ Web and forum
          www.easy68k.com
 
 
-Please post comments, suggestions, and bug reports to the EASy68K forum.
+Please post comments, suggestions, and bug reports to the EASy68K forum http://www.easy68k.com/EASy68Kforum/index.php seems to be dead by now.
 
 
 This package contains everything you need to create and run 68000 assembly language programs on a Windows PC. All programs and files are distributed under the GNU General Public Use License. A copy of the GNU license is available in the Help menu.
